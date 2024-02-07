@@ -71,7 +71,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```bash
-  git clone https://github.com/ctokoli/hello-rails-react.git
+  git clone https://github.com/samuelwanza/rails-webpack-helloworld.git
 ```
 
 You need to setup database for these project
