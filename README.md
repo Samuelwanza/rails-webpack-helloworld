@@ -156,7 +156,7 @@ it will run the the server on ```localhost:3000```
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ctokoli/hello-rails-react.git/issues).
+Feel free to check the [issues page](https://github.com/Samuelwanza/rails-webpack-helloworld/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
