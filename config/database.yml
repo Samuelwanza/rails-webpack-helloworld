@@ -1,0 +1,24 @@
+# config/database.yml
+
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  username: postgres
+  password: Munguti610.
+  host: localhost
+
+development:
+  <<: *default
+  database: railwebpack_development
+
+test:
+  <<: *default
+  database: railwebpack_test
+
+production:
+  <<: *default
+  database: your_project_name_production
+  username: your_production_postgres_username
+  password: your_production_postgres_password
+  host: your_production_postgres_host
